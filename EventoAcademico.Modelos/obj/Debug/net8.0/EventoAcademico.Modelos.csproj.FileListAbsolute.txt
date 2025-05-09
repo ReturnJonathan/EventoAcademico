@@ -1,0 +1,11 @@
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Modelos\bin\Debug\net8.0\EventoAcademico.Modelos.deps.json
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Modelos\bin\Debug\net8.0\EventoAcademico.Modelos.dll
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Modelos\bin\Debug\net8.0\EventoAcademico.Modelos.pdb
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Modelos\obj\Debug\net8.0\EventoAcademico.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Modelos\obj\Debug\net8.0\EventoAcademico.Modelos.AssemblyInfoInputs.cache
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Modelos\obj\Debug\net8.0\EventoAcademico.Modelos.AssemblyInfo.cs
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Modelos\obj\Debug\net8.0\EventoAcademico.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Modelos\obj\Debug\net8.0\EventoAcademico.Modelos.dll
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Modelos\obj\Debug\net8.0\refint\EventoAcademico.Modelos.dll
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Modelos\obj\Debug\net8.0\EventoAcademico.Modelos.pdb
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Modelos\obj\Debug\net8.0\ref\EventoAcademico.Modelos.dll

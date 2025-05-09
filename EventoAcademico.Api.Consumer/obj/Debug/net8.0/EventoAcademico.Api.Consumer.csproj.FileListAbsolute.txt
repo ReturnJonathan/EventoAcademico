@@ -1,0 +1,15 @@
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\bin\Debug\net8.0\EventoAcademico.Api.Consumer.deps.json
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\bin\Debug\net8.0\EventoAcademico.Api.Consumer.dll
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\bin\Debug\net8.0\EventoAcademico.Api.Consumer.pdb
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\obj\Debug\net8.0\EventoAcademico.Api.Consumer.csproj.AssemblyReference.cache
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\obj\Debug\net8.0\EventoAcademico.Api.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\obj\Debug\net8.0\EventoAcademico.Api.Consumer.AssemblyInfoInputs.cache
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\obj\Debug\net8.0\EventoAcademico.Api.Consumer.AssemblyInfo.cs
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\obj\Debug\net8.0\EventoAcademico.Api.Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\obj\Debug\net8.0\EventoAcademico.Api.Consumer.dll
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\obj\Debug\net8.0\refint\EventoAcademico.Api.Consumer.dll
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\obj\Debug\net8.0\EventoAcademico.Api.Consumer.pdb
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\obj\Debug\net8.0\ref\EventoAcademico.Api.Consumer.dll
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\bin\Debug\net8.0\EventoAcademico.Modelos.dll
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\bin\Debug\net8.0\EventoAcademico.Modelos.pdb
+C:\Users\Jonathan\source\repos\EventoAcademico.Api\EventoAcademico.Api.Consumer\obj\Debug\net8.0\EventoAc.076A3D9C.Up2Date

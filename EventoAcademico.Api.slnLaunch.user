@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "EventoAcademico.Api\\EventoAcademico.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EventoAcademico.Test\\EventoAcademico.Test.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
